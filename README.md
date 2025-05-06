@@ -123,3 +123,5 @@ Este laboratório foi uma excelente oportunidade para colocar em prática o conh
 - Praticar a **customização de modelos de fala** para aplicações específicas.
 
 ---
+> ⚠️ Todos os testes e práticas foram realizados diretamente nas interfaces do Azure Speech Studio e Language Studio, sem geração de arquivos adicionais.
+
